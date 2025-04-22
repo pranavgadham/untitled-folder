@@ -11,7 +11,7 @@ function transformString(input) {
     return formatted;
 }
 
-// Example usage
+
 console.log(transformString("i_love_cats")); 
 console.log(transformString("i-love-cats")); 
 console.log(transformString("iLoveCats"));   
